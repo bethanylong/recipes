@@ -45,7 +45,7 @@ Wok Congestion
 --------------
 Don't get the wok too full, or it'll be unable to effectively heat everything well. If the ingredients get deeper than an inch or so (depending on how dense they are), you'll end up steaming everything, and it will likely just get soggy rather than fried. This can be mitigated to some extent with good movement.
 
-Cooking order
+Cooking Order
 -------------
 While every recipe is different, a common pattern tends to emerge among stir-frying recipes pertaining to the order in which you add ingredients. Getting familiar with this order is a great foundation for improvisation.
 
