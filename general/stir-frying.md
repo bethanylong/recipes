@@ -54,7 +54,7 @@ The amount of time to stay at each stage varies depending on what you're cooking
 * **Oil**
 * **Meat or tofu** (if any)
 * **Tough vegetables** like celery, carrots, onions, and broccoli
-* **Tender vegetables** like bok choy, bell peppers, and mushrooms
+* **Tender vegetables and fungi** like bok choy, bell peppers, and mushrooms
 * **Noodles or rice** (if any)
   * Keep in mind that noodles and rice are cooked in water, and you'll need to cook off much of this moisture before moving on to prevent sogginess.
   * I've tried using barley, lentils, and couscous (not all at once) at this step with interesting results. Be creative.
