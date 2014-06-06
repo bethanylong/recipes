@@ -8,6 +8,7 @@ Ingredients
 * 1 head shredded cabbage
 * 2 packages broken ramen
 * 1 cup dry roasted peanuts
+
 Dressing:
 * 1/2 cup oil
 * 2 TB sugar
