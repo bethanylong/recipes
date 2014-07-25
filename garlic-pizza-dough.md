@@ -5,7 +5,7 @@ Garlic Pizza Dough
 
 Yield: 2-3 pizzas or 16 breadsticks
 
-Bake: 375-400°F
+Bake: 425°F
 
 Ingredients
 -----------
