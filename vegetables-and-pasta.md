@@ -3,6 +3,8 @@ Vegetables and Pasta
 
 I struggled to come up with an accurate name for this recipe. Suffice it to say this is a super hearty and satisfying dish that borders on stew-like. Try as I might, I haven't managed to get tired of it yet. It also reheats incredibly well in the microwave.
 
+Yield: about 4 servings
+
 Ingredients
 -----------
 - 1/3 lb dried farfalle pasta
@@ -19,7 +21,7 @@ Ingredients
 Directions
 ----------
 1. Cook farfalle according to package directions. Drain in colander when done.
-2. Heat olive oil in a large skillet or wok. Add onions and cook over medium heat until softened and slightly browned, about 5 minutes.
+2. Heat olive oil in a large skillet or wok. Add onions and cook over medium heat, stirring frequently, until softened and slightly browned, about 5 minutes.
 3. Add zucchini and eggplant to pan and cook until softened, about 3-4 minutes.
 4. Add bell pepper and mushrooms and cook until softened, about 3-4 minutes.
 5. Add garlic and cook until aromatic, about 1 minute. Add a pinch of salt and pepper.
